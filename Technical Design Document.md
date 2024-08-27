@@ -32,6 +32,5 @@ Description: Orchestrates the execution of the program by calling create_respons
 Parameters: None
 Returns: None
 
-Link to repository: 
-www.repository.com](https://github.com/OlgaFoox/magic_8_-ball/blob/main/OlgaFoox_ch1_ex1b.py
+Link to repository: https://github.com/OlgaFoox/magic_8_-ball/blob/main/OlgaFoox_ch1_ex1b.py
 
